@@ -1,8 +1,8 @@
 # Truck Tracker: An IoT Pattern Using OpenShift and other IBM Cloud Services
 ## Combining IBM Cloud services to produce a variety of insights.
 
-This repository contains resources related to the [Truck Tracker: An IoT Pattern Using OpenShift and other IBM Cloud Services
-](https://cloud.ibm.com/docs/cloud-databases?topic=cloud-databases-truck-tracker-ibmcloud) tutorial for [IBM Cloud Databases](https://test.cloud.ibm.com/docs/cloud-databases). 
+**This repository contains resources related to the [Truck Tracker: An IoT Pattern Using OpenShift and other IBM Cloud Services
+](https://cloud.ibm.com/docs/cloud-databases?topic=cloud-databases-truck-tracker-ibmcloud) tutorial for [IBM Cloud Databases](https://test.cloud.ibm.com/docs/cloud-databases).** 
 
 Truck Tracker is a service that receives data from a fleet of trucks as they travel across the country. It could be any data (e.g., fuel consumption, driver details, ambient temperature, or anything else that can be measured as you cruise). For the purposes of this post, it will be the truck's ID and position (lat/long coordinates). Truck Tracker will store the data in various data stores and also show you the current position of the trucks on a map.
 
